@@ -9,7 +9,7 @@ char userDecision;
 char exitCmd[30];
 
 int main () {
-    printf("Calculator by Samannoy Bhattacharjee \n");
+
     printf("Type `exit` to exit. \n");
     if (exitCmd != "exit") {
         printf("Enter first number: ");
